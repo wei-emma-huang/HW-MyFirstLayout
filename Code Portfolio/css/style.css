@@ -1,0 +1,85 @@
+.body {
+        margin: 0;
+        padding: 0;
+        padding-top: 10px;
+        text-align:center;
+    }
+
+    .photo {
+        float: left;
+    }
+
+    .img {
+        border-radius: 50%;
+      }
+
+    .who {
+        float: right;
+        width: 700px;
+        text-align: left;
+        border: 0px;
+        padding: 0px;
+        background-color: #999999;
+    margin:auto;
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:15px; 
+}
+
+    .social {
+        float: right;
+        width: 700px;
+        text-align: left;
+        border: 0px;
+        padding: 0px;
+        background-color: #af6161;
+        margin:auto;
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:15px; 
+    }
+
+    .facts {
+        float: right;
+        width: 700px;
+        text-align: left;
+        border: 0px;
+        padding: 0px;
+        background-color: #54725c;
+        font-family:Arial, Helvetica, sans-serif; 
+    font-size:15px; 
+    }
+
+    .skill {
+        float: right;
+        width: 700px;
+        text-align: left;
+        border: 0px;
+        padding: 0px;
+        background-color: #204994;
+        font-family:Arial, Helvetica, sans-serif; 
+    font-size:15px; 
+    }
+
+.h1 {
+    color:gray
+}
+.p {
+    color:gray 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

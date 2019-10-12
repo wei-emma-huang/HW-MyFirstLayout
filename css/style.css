@@ -1,0 +1,112 @@
+.body {
+        margin: 0;
+        padding: 0;
+        padding-top: 0px;
+        text-align:center;
+    }
+    
+    p {
+        white-space: pre-line;
+    }
+
+
+    .photo {
+        float: left;
+        position: relative; 
+        top: 40px; 
+        right: 80px;
+        left: 170px; 
+        bottom: 20px;
+    }
+
+    .img {
+        border-radius: 50%;
+      }
+
+    .who {
+        float: right;
+        width: 600px;
+        text-align: left;
+        border: 0px;
+        padding: 20px;
+        background-color: #999999;
+        font-family:Raleway, Arial, Helvetica, sans-serif; 
+        font-size:15px; 
+        position: relative; 
+        top: 20px; 
+        right: 190px;
+        }
+
+    .social {
+        float: right;
+        width: 600px;
+        text-align: left;
+        border: 0px;
+        padding: 20px;
+        background-color: #af6161;
+        position: relative; 
+        top: 20px; 
+        right: 190px;
+        font-family:Raleway, Arial, Helvetica, sans-serif; 
+        font-size:15px; 
+        }
+
+    .facts {
+        float: right;
+        width: 300px;
+        text-align: left;
+        border: 0px;
+        padding: 20px;
+        position: relative; 
+        top: 120px; 
+        left: 150px;
+        right: 190px;
+        background-color: #54725c;
+        font-family:Raleway, Arial, Helvetica, sans-serif; 
+    font-size:15px; 
+    }
+
+    .skill {
+        float: right;
+        width: 300px;
+        text-align: left;
+        border: 0px;
+        padding: 20px;
+        position: relative; 
+        top: 0px; 
+        left: 600px;
+        right: 190px;
+        background-color: #204994;
+        font-family:Raleway, Arial, Helvetica, sans-serif; 
+    font-size:15px; 
+    }
+
+.h1 {
+    color:gray 
+}
+.h1 {
+    font-family:Raleway, Arial, Helvetica, sans-serif;
+    font-size:35px; 
+    letter-spacing: 3px;
+}
+
+p {
+    white-space: pre-line;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
